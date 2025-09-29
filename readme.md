@@ -1,4 +1,3 @@
-```markdown
 # 🛒 BigMart Sales Analysis: Exploratory Data Insights
 
 ## 📖 Project Overview
@@ -69,7 +68,7 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn
 ### Running the Analysis
 1. Clone the repository:
 ```bash
-git clone https://github.com/Rizwar10/BigMart Sales Analysis.git
+git clone https://github.com/Rizwar10/bigmart-sales-analysis.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -88,12 +87,3 @@ For questions or collaboration opportunities:
 
 ---
 *Built with passion for data-driven decision making*
-```
-
-### Why this README works well:
-1. **Professional Tone**: Uses business-oriented language without sounding robotic
-2. **Clear Structure**: Logical flow from overview to methodology to results
-3. **Specific Details**: Mentions actual findings (OUT049, Frozen Foods category)
-4. **Action-Oriented**: Provides concrete business recommendations
-5. **Human Touch**: Includes personal contact information and a friendly closing note
-6. **Practical Instructions**: Clear steps for replication with actual commands
